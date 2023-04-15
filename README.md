@@ -50,9 +50,8 @@
       <p>Project Conference Go - <a href="https://github.com/ChrisAlexRods/ConferenceGo">Repo Link</a></p>
     </td>
     <td>
-      <img src="https://via.placeholder.com/200x100" alt="Project 4 Screenshot" />
-      <p>Project 4 - <a href="https://github.com/username/project4">Link</a></p>
-    </td>
+      <img src="[https://via.placeholder.com/200x100](https://user-images.githubusercontent.com/105233007/232254649-17a07aed-4ecb-49fe-a045-4fb4a81b4181.PNG)" alt="Project 4 Screenshot" />
+      <p>Project Hotel Management - <a href="https://github.com/username/project4">Repo Link</a></p>
   </tr>
 </table>
 
