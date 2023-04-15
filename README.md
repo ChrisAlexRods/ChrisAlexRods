@@ -21,7 +21,7 @@
       <td align="center"><img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/><br>PostgreSQL</td>
       <td align="center"><img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br>MongoDB</td>
       <td align="center"><img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/><br>Bootstrap</td>
-      <td align="center"><img alt="pytest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" height="40"/><br>pytest</td>
+      <td align="center"><img alt="Pytest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" height="40"/><br>pytest</td>
        <td align="center"><img alt="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/><br>NPM</td>
       <td align="center"><img alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/><br>GitLab</td>
     </tr>
@@ -37,17 +37,17 @@
   <tr>
     <td>
       <img src="https://user-images.githubusercontent.com/105233007/227293137-700f3050-fb5d-4a24-a920-645a36afdf39.PNG" alt="Project 1 Screenshot" />
-      <p>Project 1 - <a href="https://github.com/ChrisAlexRods/Green-Thumb">Link</a></p>
+      <p>Project Green Thumb - <a href="https://github.com/ChrisAlexRods/Green-Thumb">Repo Link</a></p>
     </td>
     <td>
       <img src="https://user-images.githubusercontent.com/105233007/227309345-f6f39803-edcf-422b-8c8b-b1003e71dc1f.PNG" alt="Project 2 Screenshot" />
-      <p>Project 2 - <a href="https://github.com/ChrisAlexRods/Project-Carcar">Link</a></p>
+      <p>Project Carcar - <a href="https://github.com/ChrisAlexRods/Project-Carcar">Repo Link</a></p>
     </td>
   </tr>
   <tr>
     <td>
       <img src="https://user-images.githubusercontent.com/105233007/227292895-fc5ec78d-0ded-4147-932c-4d9c1fae1014.PNG" alt="Project 3 Screenshot" />
-      <p>Project 3 - <a href="https://github.com/ChrisAlexRods/ConferenceGo">Link</a></p>
+      <p>Project Conference Go - <a href="https://github.com/ChrisAlexRods/ConferenceGo">Repo Link</a></p>
     </td>
     <td>
       <img src="https://via.placeholder.com/200x100" alt="Project 4 Screenshot" />
