@@ -3,13 +3,6 @@
 ## 🛠️ Tools & Languages
 
 <!-- Icons from https://github.com/devicons/devicon -->
-
-# Hi, I'm Christian Rodriguez 👋
-
-## 🛠️ Tools & Languages
-
-<!-- Icons from https://github.com/devicons/devicon -->
-
 <p align="center">
   <table align="center">
     <tr>
@@ -28,7 +21,7 @@
       <td align="center"><img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/><br>PostgreSQL</td>
       <td align="center"><img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br>MongoDB</td>
       <td align="center"><img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/><br>Bootstrap</td>
-      <td align="center"><img alt="RabbitMQ" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-plain-wordmark.svg" width="40" height="40"/><br>RabbitMQ</td>
+      <td align="center"><img alt="pytest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" height="40"/><br>pytest</td>
        <td align="center"><img alt="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/><br>NPM</td>
       <td align="center"><img alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/><br>GitLab</td>
     </tr>
