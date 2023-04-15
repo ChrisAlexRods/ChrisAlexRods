@@ -4,6 +4,12 @@
 
 <!-- Icons from https://github.com/devicons/devicon -->
 
+# Hi, I'm Christian Rodriguez 👋
+
+## 🛠️ Tools & Languages
+
+<!-- Icons from https://github.com/devicons/devicon -->
+
 <p align="center">
   <table align="center">
     <tr>
@@ -11,8 +17,6 @@
       <td align="center"><img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><br>HTML5</td>
       <td align="center"><img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><br>CSS3</td>
       <td align="center"><img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br>Python</td>
-    </tr>
-    <tr>
       <td align="center"><img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br>JavaScript</td>
       <td align="center"><img alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/><br>Django</td>
       <td align="center"><img alt="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/><br>FastAPI</td>
@@ -23,13 +27,14 @@
       <td align="center"><img alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><br>SQL</td>
       <td align="center"><img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/><br>PostgreSQL</td>
       <td align="center"><img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br>MongoDB</td>
-    </tr>
-    <tr>
       <td align="center"><img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/><br>Bootstrap</td>
       <td align="center"><img alt="RabbitMQ" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-plain-wordmark.svg" width="40" height="40"/><br>RabbitMQ</td>
+       <td align="center"><img alt="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/><br>NPM</td>
+      <td align="center"><img alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/><br>GitLab</td>
     </tr>
   </table>
-</p
+</p>
+
 
 ## 📸 Projects
 
