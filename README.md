@@ -41,7 +41,7 @@
     </td>
     <td>
       <img src="https://user-images.githubusercontent.com/105233007/227309345-f6f39803-edcf-422b-8c8b-b1003e71dc1f.PNG" alt="Project 2 Screenshot" />
-      <p>Project Carcar - <a href="https://github.com/ChrisAlexRods/Project-Carcar">Repo Link</a></p>
+      <p>Project Car Service - <a href="https://github.com/ChrisAlexRods/Project-Car-Service">Repo Link</a></p>
     </td>
   </tr>
   <tr>
